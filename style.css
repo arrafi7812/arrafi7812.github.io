@@ -1,0 +1,26 @@
+body {
+    font-family: "Hind";
+}
+.gambar {
+    padding-left: 10%;
+}
+.hmm {
+    padding: 0;
+}
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.list li {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.lk {
+    margin-top: 100px;
+}
+.qwe {
+	clear: left;
+}
